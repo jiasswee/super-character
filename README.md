@@ -26,13 +26,12 @@ plugins/miao-plugin/resources/profile/super-character
 #### 版权免责声明
 图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
 
+（懒狗不用看，给自己替换图片的人说的）
+注意：因为喵喵面板插件暂时不支持多个图，所以换图片时候把图片名字换成角色名字.webp
+
 #### 项目地址
 * Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 
 * Miao-plugin：[Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin) & [Github](https://github.com/yoimiya-kokomi/miao-plugin)
-
-* xiaoyao-cvs-plugin：[Gitee](https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin) & [Github](https://github.com/Ctrlcvs/xiaoyao-cvs-plugin)
-
-* 背景图-BJT：[Gitee](https://gitee.com/cv-hunag/BJT) & [Github](https://github.com/cv-hunag/BJT)
 
 * Yunzai-Bot插件库：[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
