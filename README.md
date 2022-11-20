@@ -36,6 +36,8 @@ git pull
 #### 使用其他webp图片方法
 注意：因为喵喵面板插件暂时不支持多个图，所以换图片时候把图片名字换成 [ 角色名字.webp ] 这种格式
 
+支持jpg/jpeg/png/webp图片格式
+
 #### 项目地址
 * Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 
