@@ -29,6 +29,12 @@ plugins/miao-plugin/resources/profile/super-character
 #### 使用其他webp图片方法
 注意：因为喵喵面板插件暂时不支持多个图，所以换图片时候把图片名字换成 [ 角色名字.webp ] 这种格式
 
+#### 更新图片
+第一次使用后，在喵喵插件面板背景图位置输入下面指令更新图片
+```
+git pull
+```
+
 #### 项目地址
 * Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
 
