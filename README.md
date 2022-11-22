@@ -9,23 +9,20 @@
 ```
 
 #### 食用方法
-
-下载压缩包或者拉取git后把super-character与喵喵插件内super-character合并覆盖即可
-
-想要继续更新请一定要把所有文件覆盖
+拉取链接后，请把里面的文件和文件夹【.git，super-character，README.md】放入
+```
+/plugins/miao-plugin/resources/profile
+```
 	
 #### 下载方法
+
+拉取链接
 ```
 git clone https://gitee.com/hbj2457/super-character
 ```
 	
-#### 喵喵插件面板背景图位置
-```
-plugins/miao-plugin/resources/profile/super-character
-```
-
 #### 更新图片
-第一次使用后，在喵喵插件面板背景图位置输入下面指令更新图片
+在上面位置输入下面指令更新图片【请先下载再更新】
 ```
 git pull
 ```
@@ -33,13 +30,18 @@ git pull
 #### 版权免责声明
 图片仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
 
-#### 使用其他webp图片方法
+#### 使用其他图片方法
 
 注意：因为喵喵面板插件暂时不支持多个图，
 
 所以换图片时候把图片名字换成 [ 角色名字.webp ] 这种格式
 
 支持jpg/jpeg/png/webp图片格式
+
+喵喵插件面板背景图位置
+```
+plugins/miao-plugin/resources/profile/super-character
+```
 
 #### 项目地址
 * Yunzai-Bot：[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)
