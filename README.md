@@ -27,6 +27,12 @@ git clone https://gitee.com/hbj2457/super-character
 git pull
 ```
 
+#### 不更新某个角色图片
+在.gitgnore文件填写图片路径，如：
+```
+/super-character/阿贝多.webp
+```
+
 #### 版权免责声明
 图片为喵喵群的大佬修改，本人不负责任何版权问题
 仅限内部交流与小范围使用，请勿将此模板图库用于任何以盈利为目的的场景
