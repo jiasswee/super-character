@@ -9,7 +9,7 @@
 ```
 
 #### 食用方法
-拉取链接后，请把里面的文件和文件夹【.git，super-character，README.md】放入
+拉取链接后，请把里面的文件和文件夹【.git，super-character，.gitgnore，README.md】放入
 ```
 /plugins/miao-plugin/resources/profile
 ```
